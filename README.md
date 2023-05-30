@@ -40,9 +40,8 @@ continuous JSON file.
 * tweepy
 * json
 
-## Authors:
+## Author:
 * Affonso Ciekalski Soares Campos
-* Udacity
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
