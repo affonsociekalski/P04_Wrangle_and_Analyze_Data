@@ -2,9 +2,11 @@
 This is the fourth project from the Data Analyst Nanodegree at Udacity.
 
 ## Project Overview
-The goal of this project is to analyze the tweets from **WeRateDogs**, 
-a Twitter account that rates dogs in pictures. Its grades often go 
-above 10/10, making the grading system unique.
+The goal of this [project](wrangle_act.ipynb) is to analyze the tweets 
+from **WeRateDogs**, a Twitter account that rates dogs in pictures. 
+Its grades often go above 10/10, making the grading system unique. 
+Besides, we had to create a [report](act_report.pdf) to present the 
+analysis results.
 
 ### Steps of this project:
 1. Gathering data
